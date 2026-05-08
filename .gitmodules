@@ -1,0 +1,6 @@
+[submodule "tools/wireguard-install"]
+	path = tools/wireguard-install
+	url = https://github.com/Nyr/wireguard-install.git
+[submodule "tools/openvpn-install"]
+	path = tools/openvpn-install
+	url = https://github.com/Nyr/openvpn-install.git
