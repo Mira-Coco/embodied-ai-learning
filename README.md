@@ -190,3 +190,21 @@ VLA 模型是连接大模型与机器人动作的重要方向。它的核心问�
 - 跟踪 VLA 与机器人基础模型方向。
 - 整理人形机器人相关资料与实验笔记。
 - 形成长期、可复盘的每日学习记录。
+
+## 仓库结构索引
+
+- `docs/`：已有专题笔记与配置记录。
+- `tools/`：已有工具脚本与安装记录。
+- `notes/`：按主题整理的学习笔记。
+- `projects/`：Python、ROS 2 和数据工具练习项目。
+- `resources/`：书籍、课程、链接资源索引。
+- `assets/`：图片与截图素材。
+
+## 学习入口
+
+- [学习路线图](roadmap.md)
+- [Python 笔记](notes/python/00_index.md)
+- [Git / Linux 笔记](notes/git_linux/00_index.md)
+- [ROS 2 笔记](notes/ros2/00_index.md)
+- [机器人学笔记](notes/robotics/00_index.md)
+- [具身智能笔记](notes/embodied_ai/00_index.md)
